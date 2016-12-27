@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+body {
+	color: blue;
+	background-color: pink;
+}
+
+#header1 {
+	text-align: Center;
+}
