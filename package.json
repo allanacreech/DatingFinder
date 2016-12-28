@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/allanacreech/DatingFinder#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "inquirer": "^2.0.0",
-    "mysql": "^2.12.0"
+    "mysql": "^2.12.0",
+    "path": "^0.12.7"
   }
 }
